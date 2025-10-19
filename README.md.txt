@@ -6,8 +6,8 @@ Perfect for packaging, stained glass, and digital storytelling.
 ## ?? Themes
 
 - **River Lily** — Magical autumn bloom with soft reflections and depth  
-- **Chestnut Leaf** — Warm tones and realistic texture, perfect for gifts  
-- **Hedgehog with Basket** — Cozy forest character with detailed fur and woven basket
+- **chestnut-leaf** — Warm tones and realistic texture, perfect for gifts  
+- **hedgehog-basket** — Cozy forest character with detailed fur and woven basket
 
 ## ?? Formats
 
